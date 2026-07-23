@@ -28,9 +28,3 @@ I design and build AI agents that solve real problems at scale — not demos, bu
 ### Tech
 
 `Python` `TypeScript` `FastAPI` `React` `Neo4j` `PostgreSQL/pgvector` `Playwright` `Docker` `LLM Agents` `MCP` `Vault`
-
----
-
-### Connect
-
-💼 Open to Staff/Principal AI Engineering roles
