@@ -12,7 +12,7 @@ I design and build AI agents that solve real problems at scale — not demos, bu
 
 🔮 **[Spectral](https://github.com/srikanthanugu892/spectral)** — AI browser testing agent. Autonomously explores web apps and generates Cypress/Playwright/Selenium tests. 4 modes: discover, record, generate, validate. Zero manual test writing.
 
-🛠️ **Kiro Skills** *(coming soon)* — MCP servers + AI skills for automating developer workflows.
+🛠️ **[AI Automation Toolkit](https://github.com/srikanthanugu892/ai-automation-toolkit)** — MCP servers + AI skills for automating developer workflows. Google Calendar MCP + intelligent timesheet auto-fill from calendar, Slack, and Jira context.
 
 ---
 
