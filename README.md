@@ -16,6 +16,12 @@ I design and build AI agents that solve real problems at scale — not demos, bu
 
 ---
 
+### Writing
+
+📝 [How I Built an AI Agent That Queries 12 Microservices for $0.005](https://medium.com/@srikanthanugu892/how-i-built-an-ai-agent-that-queries-12-microservices-for-0-005-da4fd17ead93) — Architecture deep-dive: model routing, meta-tool pattern, hybrid search, secret redaction, and cost optimization.
+
+---
+
 ### How I Think About AI Systems
 
 - **Cost-conscious**: Model routing (fast model for simple, powerful for complex) saves ~80% on token costs
